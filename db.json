@@ -1,95 +1,556 @@
     {
-        "sunglasses" : [
-            {
-            "id": 81,
-            "title": "Round Silver Frame Sun Glasses",
-            "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
-            "price": 19,
-            "discountPercentage": 10.1,
-            "rating": 4.94,
-            "stock": 78,
-            "brand": "Designer Sun Glasses",
-            "category": "sunglasses",
-            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/M44AAOSwthxjVGaT/s-l300.webp",
-            "images": [
-            "https://i.dummyjson.com/data/products/81/1.jpg",
-            "https://i.dummyjson.com/data/products/81/2.jpg",
-            "https://i.dummyjson.com/data/products/81/3.jpg",
-            "https://i.dummyjson.com/data/products/81/4.webp",
-            "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
-            ]
-            },
-            {
-            "id": 82,
-            "title": "Kabir Singh Square Sunglass",
-            "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
-            "price": 50,
-            "discountPercentage": 15.6,
-            "rating": 4.62,
-            "stock": 78,
-            "brand": "Designer Sun Glasses",
-            "category": "sunglasses",
-            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/OAQAAOSwNihj0PSm/s-l300.webp",
-            "images": [
-            "https://i.dummyjson.com/data/products/82/1.jpg",
-            "https://i.dummyjson.com/data/products/82/2.webp",
-            "https://i.dummyjson.com/data/products/82/3.jpg",
-            "https://i.dummyjson.com/data/products/82/4.jpg",
-            "https://i.dummyjson.com/data/products/82/thumbnail.jpg"
-            ]
-            },
-            {
-            "id": 83,
-            "title": "Wiley X Night Vision Yellow Glasses",
-            "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches",
-            "price": 30,
-            "discountPercentage": 6.33,
-            "rating": 4.97,
-            "stock": 115,
-            "brand": "mastar watch",
-            "category": "sunglasses",
-            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/cLsAAOSwV1JjZbJ4/s-l300.webp",
-            "images": [
-            "https://i.dummyjson.com/data/products/83/1.jpg",
-            "https://i.dummyjson.com/data/products/83/2.jpg",
-            "https://i.dummyjson.com/data/products/83/3.jpg",
-            "https://i.dummyjson.com/data/products/83/4.jpg",
-            "https://i.dummyjson.com/data/products/83/thumbnail.jpg"
-            ]
-            },
-            {
-            "id": 84,
-            "title": "Square Sunglasses",
-            "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
-            "price": 28,
-            "discountPercentage": 13.89,
-            "rating": 4.64,
-            "stock": 64,
-            "brand": "mastar watch",
-            "category": "sunglasses",
-            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/x4UAAOSwcjhgg84n/s-l300.webp",
-            "images": [
-            "https://i.dummyjson.com/data/products/84/1.jpg",
-            "https://i.dummyjson.com/data/products/84/2.jpg",
-            "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
-            ]
-            },
-            {
-            "id": 85,
-            "title": "LouisWill Men Sunglasses",
-            "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
-            "price": 50,
-            "discountPercentage": 11.27,
-            "rating": 4.98,
-            "stock": 92,
-            "brand": "LouisWill",
-            "category": "sunglasses",
-            "thumbnail": "https://i.dummyjson.com/data/products/85/thumbnail.jpg",
-            "images": [
-            "https://i.dummyjson.com/data/products/85/1.jpg",
-            "https://i.dummyjson.com/data/products/85/2.jpg",
-            "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
-            ]
-            }
+        "MensProducts" : [
+                {
+                "ratings": 4,
+                "rating_count": "16.8k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/12/1aab2a18-6774-4f83-b292-fe301755a3351576102551329-1.jpg",
+                "brand": "Huetrap",
+                "title": "Typography Print T-shirt",
+                "size": "M",
+                "price": "Rs. 296",
+                "strike_price": "Rs. 1099",
+                "discount": "(73% OFF)"
+                },
+                {
+                "ratings": 4.1,
+                "rating_count": "4.4k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16407468/2021/12/28/fce7ca1e-01ec-4c12-a90f-c7b75abda0e01640669480687-Difference-of-Opinion-Men-Tshirts-4021640669480120-1.jpg",
+                "brand": "Difference of Opinion",
+                "title": "Men Solid Oversized Cotton",
+                "size": "S",
+                "price": "Rs. 532",
+                "strike_price": "Rs. 1299",
+                "discount": "(59% OFF)"
+                },
+                {
+                "ratings": 4.2,
+                "rating_count": "2.9k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8923841/2019/6/3/736b9f2c-3a49-41a9-828c-1e0218b62e431559550212164-Minions-by-Kook-N-Keech-Men-Purple-Printed-Round-Neck-T-shir-1.jpg",
+                "brand": "Minions by Kook N Keech",
+                "title": "Printed Round Neck Pure Cotton T-shirt",
+                "size": "S",
+                "price": "Rs. 494",
+                "strike_price": "Rs. 1099",
+                "discount": "(55% OFF)"
+                },
+                {
+                "ratings": 4.2,
+                "rating_count": "33.7k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2275365/2022/11/22/a3af8a2f-a385-4cb7-bf7b-e34e0925fe0d1669105782439-Roadster-Men-White--Pure-Cotton-T-shirt-7301669105781913-1.jpg",
+                "brand": "Roadster",
+                "title": "Pure Cotton T-shirt",
+                "size": "M",
+                "price": "Rs. 349",
+                "strike_price": "Rs. 499",
+                "discount": "(30% OFF)"
+                },
+                {
+                "ratings": 4.2,
+                "rating_count": "53.5k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1700871/2020/1/22/f932ae44-0fb8-4b92-b7bc-f1756253294b1579692118186-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-1.jpg",
+                "brand": "HRX by Hrithik Roshan",
+                "title": "Printed Pure Cotton T-shirt",
+                "size": "M",
+                "price": "Rs. 314",
+                "strike_price": "Rs. 699",
+                "discount": "(55% OFF)"
+                },
+                {
+                "ratings": "",
+                "rating_count": "",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21934040/2023/2/10/953d7247-ef91-486e-b3a8-9b624f7116351676042836974ArrowSportsMenBlueStripedPiquePoloShirt1.jpg",
+                "brand": "Arrow Sport",
+                "title": "Striped Polo Collar T-shirt",
+                "size": "S",
+                "price": "Rs. 989",
+                "strike_price": "Rs. 1799",
+                "discount": "(45% OFF)"
+                },
+                {
+                "ratings": 4.6,
+                "rating_count": "1.6k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14047672/2021/5/17/c1fd89a5-6364-4d0b-bde4-fcc0b7ddd1571621252467672-Louis-Philippe-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-71816-1.jpg",
+                "brand": "Louis Philippe",
+                "title": "Polo Collar T-shirt",
+                "size": "S",
+                "price": "Rs. 1044",
+                "strike_price": "Rs. 1899",
+                "discount": "(45% OFF)"
+                },
+                {
+                "ratings": 4.6,
+                "rating_count": 94,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20516498/2023/1/18/b58bd6a8-bccc-4882-b61e-62bfec8c1dd61674024843488-Polo-T-Shirt-9581674024842996-1.jpg",
+                "brand": "Levis",
+                "title": "Men Pure Cotton  T-shirt",
+                "size": "S",
+                "price": "Rs. 989",
+                "strike_price": "Rs. 1799",
+                "discount": "(45% OFF)"
+                },
+                {
+                "ratings": 4.2,
+                "rating_count": "23.1k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1996777/2022/11/22/336445a8-fa32-4396-914a-2629b49465d31669112704759RoadsterMenBlackCottonPureCottonT-shirt1.jpg",
+                "brand": "Roadster",
+                "title": "Men Cotton Pure Cotton T-shirt",
+                "size": "L",
+                "price": "Rs. 374",
+                "strike_price": "Rs. 499",
+                "discount": "(25% OFF)"
+                },
+                {
+                "ratings": 4,
+                "rating_count": 32,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22283810/2023/3/10/f00dafdf-e1d6-43a7-a844-3c20e842352316784540895343-packRegularFitRound-neckT-shirts1.jpg",
+                "brand": "H&M",
+                "title": "Men 3-Pack Cotton T-shirts",
+                "size": "XL",
+                "price": "",
+                "strike_price": "",
+                "discount": ""
+                },
+                {
+                "ratings": 4.5,
+                "rating_count": "1.5k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14047664/2021/5/17/a793738f-a7c7-4b3a-a845-e4218e250f831621252555081-Louis-Philippe-Men-Tshirts-4101621252554363-1.jpg",
+                "brand": "Louis Philippe",
+                "title": "Polo Collar T-shirt",
+                "size": "S",
+                "price": "Rs. 1139",
+                "strike_price": "Rs. 1899",
+                "discount": "(40% OFF)"
+                },
+                {
+                "ratings": "",
+                "rating_count": "",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21934024/2023/2/10/8799335c-286c-44d0-9b01-528471e6ae761676042794417ArrowSportMenRedStripedPoloCollarT-shirt1.jpg",
+                "brand": "Arrow Sport",
+                "title": "Striped Pure Cotton T-shirt",
+                "size": "S",
+                "price": "Rs. 989",
+                "strike_price": "Rs. 1799",
+                "discount": "(45% OFF)"
+                },
+                {
+                "ratings": 4.1,
+                "rating_count": "9.5k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7546900/2019/1/24/c9be0d6e-30a4-4242-b4e0-1c166b73f2781548320874402-HERENOW-Men-Polo-Collar-T-shirt-4861548320873235-1.jpg",
+                "brand": "HERE&NOW",
+                "title": "Polo Collar Cotton Pure Cotton T-shirt",
+                "size": "XL",
+                "price": "Rs. 519",
+                "strike_price": "Rs. 1299",
+                "discount": "(60% OFF)"
+                },
+                {
+                "ratings": 4.2,
+                "rating_count": "65.2k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1700944/2019/6/8/488007ef-c65e-4a2f-a92b-65b6846894861559989274078-HRX-by-Hrithik-Roshan-Men-Yellow-Printed-Round-Neck-T-Shirt--1.jpg",
+                "brand": "HRX by Hrithik Roshan",
+                "title": "Printed Cotton Pure Cotton T-shirt",
+                "size": "M",
+                "price": "Rs. 594",
+                "strike_price": "Rs. 699",
+                "discount": "(15% OFF)"
+                },
+                {
+                "ratings": 3.9,
+                "rating_count": "10.8k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1824340/2017/8/3/11501764560457-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3291501764560241-1.jpg",
+                "brand": "Roadster",
+                "title": "Longline T-shirt with Raw Edge",
+                "size": "S",
+                "price": "Rs. 359",
+                "strike_price": "Rs. 799",
+                "discount": "(55% OFF)"
+                },
+                {
+                "ratings": 4.1,
+                "rating_count": 540,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20355854/2022/10/21/a4193b5b-ff1e-4461-adb4-dcf05bf7b5e61666345317570-DILLINGER-Men-Tshirts-6131666345317060-1.jpg",
+                "brand": "DILLINGER",
+                "title": "Men Oversized T-shirt",
+                "size": "S",
+                "price": "Rs. 495",
+                "strike_price": "Rs. 799",
+                "discount": "(38% OFF)"
+                },
+                {
+                "ratings": 4.1,
+                "rating_count": "11.3k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12377258/2020/9/11/ce1b7bcb-a65a-4eb0-a317-42ac02718f1e1599798741705UrbanoFashionPrintedMenRoundNeckDarkGreenT-Shirt1.jpg",
+                "brand": "Urbano Fashion",
+                "title": "Slim Tropical Printed Pure Cotton T-shirt",
+                "size": "S",
+                "price": "Rs. 461",
+                "strike_price": "Rs. 1099",
+                "discount": "(58% OFF)"
+                },
+                {
+                "ratings": "",
+                "rating_count": "",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21805892/2023/2/2/12e65b5c-52a6-46e6-90b9-1f6caaee1eaf1675322525583TechnosportMenMangoTshirt1.jpg",
+                "brand": "Technosport",
+                "title": "Antimicrobial T-shirt",
+                "size": "S",
+                "price": "",
+                "strike_price": "",
+                "discount": ""
+                },
+                {
+                "ratings": 4.3,
+                "rating_count": 73,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20516642/2023/1/17/f1b0aba6-3224-47f0-8ea7-e567e76451171673956832090-T-Shirt-8681673956831665-1.jpg",
+                "brand": "Levis",
+                "title": "Men Pure Cotton T-shirt",
+                "size": "S",
+                "price": "Rs. 659",
+                "strike_price": "Rs. 1199",
+                "discount": "(45% OFF)"
+                },
+                {
+                "ratings": 4.4,
+                "rating_count": 370,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14162870/2022/11/6/2558723f-28ce-447b-bcd0-3fa3d1a4c7bd1667718031101PumaMenBlackSolidRoundNeckCottonT-shirt1.jpg",
+                "brand": "Puma",
+                "title": "Men Round Neck Cotton T-shirt",
+                "size": "L",
+                "price": "Rs. 569",
+                "strike_price": "Rs. 999",
+                "discount": "(43% OFF)"
+                },
+                {
+                "ratings": 4.4,
+                "rating_count": "13.8k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10106341/2019/9/5/e5bd4bb5-b746-44b1-92fd-1b20906c60031567656798859-HRX-by-Hrithik-Roshan-Men-Tshirts-5601567656797772-1.jpg",
+                "brand": "HRX by Hrithik Roshan",
+                "title": "Ultralyte Men Running T-shirt",
+                "size": "S",
+                "price": "Rs. 359",
+                "strike_price": "Rs. 899",
+                "discount": "(60% OFF)"
+                },
+                {
+                "ratings": 4.3,
+                "rating_count": "1.2k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13622286/2021/2/18/f58cb66f-5e6e-48a5-8395-c695410628811613644559259-Roadster-Men-Green-Colourblocked-Round-Neck-T-shirt-18316136-1.jpg",
+                "brand": "Roadster",
+                "title": "Colourblocked Pure Cotton",
+                "size": "M",
+                "price": "Rs. 524",
+                "strike_price": "Rs. 699",
+                "discount": "(25% OFF)"
+                },
+                {
+                "ratings": 4,
+                "rating_count": 38,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19182632/2022/11/29/0187bef9-cfbb-4c06-9c92-6f67699b91da1669722347955-US-Polo-Assn-Denim-Co-Men-Tshirts-9761669722347423-1.jpg",
+                "brand": "U.S. Polo Assn. Denim Co.",
+                "title": "Men Pure Cotton T-shirt",
+                "size": "M",
+                "price": "Rs. 949",
+                "strike_price": "Rs. 1899",
+                "discount": "(50% OFF)"
+                },
+                {
+                "ratings": 3.8,
+                "rating_count": 30,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22002904/2023/2/16/6d2543e6-fffc-496a-9fc4-1d6b40dc5cd31676545947470WhiteModernStudioTie-DyePrintOversizeDropShoulderTShirt4.jpg",
+                "brand": "Powerlook",
+                "title": "Tie And Dye T-shirt",
+                "size": "S",
+                "price": "Rs. 760",
+                "strike_price": "Rs. 1299",
+                "discount": "(Rs. 539 OFF)"
+                },
+                {
+                "ratings": 4.1,
+                "rating_count": "1.5k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17868156/2022/4/12/4084bedc-aa91-40c8-bed9-e8e74bbdd5f31649779743002VEIRDOMenWhiteCamouflagePrintedMonochromeLooseT-shirt1.jpg",
+                "brand": "VEIRDO",
+                "title": "Men Camouflage Printed Loose T-shirt",
+                "size": "XXL",
+                "price": "Rs. 419",
+                "strike_price": "Rs. 1199",
+                "discount": "(65% OFF)"
+                },
+                {
+                "ratings": 4.3,
+                "rating_count": 181,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17002752/2022/2/17/821745f0-02c9-40de-ace2-b6a6e846d99a1645091264199-Reebok-Men-Tshirts-7381645091263450-1.jpg",
+                "brand": "Reebok",
+                "title": "Vector Polo Training T-shirt",
+                "size": "M",
+                "price": "Rs. 489",
+                "strike_price": "Rs. 999",
+                "discount": "(51% OFF)"
+                },
+                {
+                "ratings": 4.2,
+                "rating_count": "2.9k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11545192/2022/3/25/626b0419-cbb0-4200-8490-67e20a0021c51648208612203-Roadster-Men-Green--White-Printed-Round-Neck-Pure-Cotton-T-s-1.jpg",
+                "brand": "Roadster",
+                "title": "Printed Round Neck Pure Cotton T-shirt",
+                "size": "M",
+                "price": "Rs. 584",
+                "strike_price": "Rs. 899",
+                "discount": "(35% OFF)"
+                },
+                {
+                "ratings": 4.4,
+                "rating_count": 599,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17535032/2022/3/24/aafe16ee-6483-40ef-8fae-80e114279b591648122118227-Puma-Men-Tshirts-4991648122117871-1.jpg",
+                "brand": "Puma",
+                "title": "Men 2022 Fan Jersey",
+                "size": "S",
+                "price": "Rs. 766",
+                "strike_price": "Rs. 1299",
+                "discount": "(41% OFF)"
+                },
+                {
+                "ratings": 4.4,
+                "rating_count": "1.5k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/10/3/09814e9d-8388-4857-8f41-a03c9d9698701570086314065-1.jpg",
+                "brand": "Allen Solly",
+                "title": "Solid Polo Collar Pure Cotton T-shirt",
+                "size": "L",
+                "price": "Rs. 599",
+                "strike_price": "Rs. 999",
+                "discount": "(40% OFF)"
+                },
+                {
+                "ratings": "",
+                "rating_count": "",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21796306/2023/2/1/1a44144a-2015-45ec-bccb-2b249997b7541675250622940TechnosportMenOliveTshirt1.jpg",
+                "brand": "Technosport",
+                "title": "Men Antimicrobial Active Tee",
+                "size": "M",
+                "price": "",
+                "strike_price": "",
+                "discount": ""
+                },
+                {
+                "ratings": 4.2,
+                "rating_count": "8.4k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11468714/2022/2/7/cbdd604f-1341-47a9-92c6-2fe6078e89821644231911509-HM-Men-White-Solid-Cotton-Pure-Cotton-T-shirt-Regular-Fit-42-1.jpg",
+                "brand": "H&M",
+                "title": "Cotton Pure Cotton T-shirt Regular Fit",
+                "size": "XS",
+                "price": "",
+                "strike_price": "",
+                "discount": ""
+                },
+                {
+                "ratings": 4.1,
+                "rating_count": "5.7k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2475892/2018/4/3/11522732991435-Roadster-Men-Black-Solid-Round-Neck-T-shirt-1531522732991218-1.jpg",
+                "brand": "Roadster",
+                "title": "Solid Round Neck T-shirt",
+                "size": "L",
+                "price": "Rs. 519",
+                "strike_price": "Rs. 799",
+                "discount": "(35% OFF)"
+                },
+                {
+                "ratings": 4.6,
+                "rating_count": 87,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20324896/2022/10/27/2215b2bf-a2c1-424b-aaa6-befb8b78467c1666867734904-Louis-Philippe-Sport-Men-Tshirts-3571666867734363-1.jpg",
+                "brand": "Louis Philippe Sport",
+                "title": "Men Striped Polo Collar T-shirt",
+                "size": "XXL",
+                "price": "Rs. 1179",
+                "strike_price": "Rs. 1999",
+                "discount": "(41% OFF)"
+                },
+                {
+                "ratings": 4.4,
+                "rating_count": 36,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19182448/2022/11/29/6790d5b4-e8df-4f50-a572-6cd51d41897e1669722302921-US-Polo-Assn-Denim-Co-Men-Tshirts-6821669722302490-1.jpg",
+                "brand": "U.S. Polo Assn. Denim Co.",
+                "title": "Men Pure Cotton T-shirt",
+                "size": "L",
+                "price": "Rs. 949",
+                "strike_price": "Rs. 1899",
+                "discount": "(50% OFF)"
+                },
+                {
+                "ratings": 4,
+                "rating_count": 139,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18087628/2022/7/18/8c0714f6-e176-47e1-98ea-24dc3a2206b81658133080344-Levis-Men-Dark-Blue-Solid-Polo-Collar-Pure-Cotton-T-shirt-98-1.jpg",
+                "brand": "Levis",
+                "title": "Men Pure Cotton Polo T-shirt",
+                "size": "S",
+                "price": "Rs. 959",
+                "strike_price": "Rs. 1599",
+                "discount": "(40% OFF)"
+                },
+                {
+                "ratings": 4.2,
+                "rating_count": 17,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21800810/2023/2/1/23e4af80-9bd0-45cc-b061-aa2d1d94a3111675264249485Tshirts4.jpg",
+                "brand": "Powerlook",
+                "title": "Men Printed T-shirt",
+                "size": "S",
+                "price": "Rs. 999",
+                "strike_price": "Rs. 1049",
+                "discount": "(Rs. 50 OFF)"
+                },
+                {
+                "ratings": 4.2,
+                "rating_count": "2.1k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11363700/2020/3/2/ec73c88e-e651-4983-aaf1-1f21f7d877551583149435427-WROGN-Men-Tshirts-1401583149433605-1.jpg",
+                "brand": "WROGN",
+                "title": "Solid Polo Collar T-shirt",
+                "size": "L",
+                "price": "Rs. 979",
+                "strike_price": "Rs. 1399",
+                "discount": "(30% OFF)"
+                },
+                {
+                "ratings": 4.3,
+                "rating_count": "9.2k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2314424/2018/5/24/95a0cd9f-6de6-454d-82d5-0c6661a0aa551527134341605-HRX-by-Hrithik-Roshan-Men-Black-Slim-Advanced-Rapid-Dry-Raglan-T-shirt-3181527134341337-1.jpg",
+                "brand": "HRX by Hrithik Roshan",
+                "title": "Slim Rapid Dry Raglan T-shirt",
+                "size": "XL",
+                "price": "Rs. 314",
+                "strike_price": "Rs. 899",
+                "discount": "(65% OFF)"
+                },
+                {
+                "ratings": 4.3,
+                "rating_count": 154,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17329004/2022/4/19/0c94e255-f61f-47ac-9e6d-e63c8744b0d51650357733147-Roadster-Men-Tshirts-5761650357732633-1.jpg",
+                "brand": "Roadster",
+                "title": "Men Henley Neck T-shirt",
+                "size": "L",
+                "price": "Rs. 714",
+                "strike_price": "Rs. 1099",
+                "discount": "(35% OFF)"
+                },
+                {
+                "ratings": 4.5,
+                "rating_count": 55,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20516638/2023/1/17/35aa629a-9228-42a9-8f94-42ff6ed58a211673956821276-Polo-T-Shirt-5651673956820861-1.jpg",
+                "brand": "Levis",
+                "title": "Men Pure Cotton T-shirt",
+                "size": "XL",
+                "price": "Rs. 989",
+                "strike_price": "Rs. 1799",
+                "discount": "(45% OFF)"
+                },
+                {
+                "ratings": 4.2,
+                "rating_count": "4.6k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9376057/2019/6/12/40949524-1f0b-48f5-a68a-cee0661b30d81560344436422-HERENOW-Men-Tshirts-9361560344434861-1.jpg",
+                "brand": "HERE&NOW",
+                "title": "Striped Cotton Pure Cotton T-shirt",
+                "size": "S",
+                "price": "Rs. 319",
+                "strike_price": "Rs. 799",
+                "discount": "(60% OFF)"
+                },
+                {
+                "ratings": "",
+                "rating_count": "",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21934038/2023/2/10/011d782d-ee8f-449c-949d-cb12c68478591676042848388ArrowSportsMenWhitePrintedCompactCottonPoloShirt1.jpg",
+                "brand": "Arrow Sport",
+                "title": "Printed Polo Collar T-shirt",
+                "size": "M",
+                "price": "Rs. 989",
+                "strike_price": "Rs. 1799",
+                "discount": "(45% OFF)"
+                },
+                {
+                "ratings": 4.4,
+                "rating_count": 420,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16878830/2022/2/4/f26ea61b-e9bf-4ad9-843b-018247f03f101643953499356-Louis-Philippe-Jeans-Men-Tshirts-5561643953498657-1.jpg",
+                "brand": "Louis Philippe Jeans",
+                "title": "Men Printed Slim Fit T-shirt",
+                "size": "XL",
+                "price": "Rs. 524",
+                "strike_price": "Rs. 1049",
+                "discount": "(50% OFF)"
+                },
+                {
+                "ratings": 3.9,
+                "rating_count": 299,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18346840/2022/5/26/88fd5950-f2e5-45f2-878a-4126189294f11653559904881-Roadster-Men-Tshirts-4511653559904350-1.jpg",
+                "brand": "Roadster",
+                "title": "Men Solid T-shirt",
+                "size": "S",
+                "price": "Rs. 283",
+                "strike_price": "Rs. 399",
+                "discount": "(29% OFF)"
+                },
+                {
+                "ratings": 4.3,
+                "rating_count": 60,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19182528/2022/11/4/3a766efb-9a21-44ca-abe0-c0d90888eb591667545974431-U-S-Polo-Assn-Denim-Co-Men-Black-Printed-Polo-Collar-Slim-Fi-1.jpg",
+                "brand": "U.S. Polo Assn. Denim Co.",
+                "title": "Men Printed Slim Fit T-shirt",
+                "size": "S",
+                "price": "Rs. 999",
+                "strike_price": "Rs. 1999",
+                "discount": "(50% OFF)"
+                },
+                {
+                "ratings": 4.3,
+                "rating_count": "9.8k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2314400/2022/2/28/94412956-cdc5-46e6-ae24-ddf43753bb861646042819162-HRX-by-Hrithik-Roshan-Men-Navy-Advanced-Rapid-Dry-T-shirt-42-1.jpg",
+                "brand": "HRX by Hrithik Roshan",
+                "title": "Rapid Dry T-shirt",
+                "size": "XL",
+                "price": "Rs. 404",
+                "strike_price": "Rs. 899",
+                "discount": "(55% OFF)"
+                },
+                {
+                "ratings": 4.3,
+                "rating_count": 229,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19726906/2022/9/12/500f1773-9d17-49c1-935a-c3e5fd9562821662963285025-DILLINGER-Men-Black-Solid-Pure-Cotton-Drop-Shoulder-Sleeves--1.jpg",
+                "brand": "DILLINGER",
+                "title": "Men Cotton Loose Fit T-shirt",
+                "size": "S",
+                "price": "Rs. 449",
+                "strike_price": "Rs. 599",
+                "discount": "(25% OFF)"
+                },
+                {
+                "ratings": 3.6,
+                "rating_count": 8,
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21796326/2023/2/1/1050d81c-fb9c-4e04-acba-a452334344121675250661459TechnosportMenBlackTshirt1.jpg",
+                "brand": "Technosport",
+                "title": "Henley Neck T-Shirt",
+                "size": "M",
+                "price": "",
+                "strike_price": "",
+                "discount": ""
+                },
+                {
+                "ratings": 4.1,
+                "rating_count": "2.8k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9242693/2019/7/5/e6d715fb-854b-4ad4-a057-fed4a89109ca1562331396987-Roadster-Men-Tshirts-41562331395362-1.jpg",
+                "brand": "Roadster",
+                "title": "Colourblocked Polo Collar Pure Cotton T-shirt",
+                "size": "XL",
+                "price": "Rs. 549",
+                "strike_price": "Rs. 1099",
+                "discount": "(50% OFF)"
+                },
+                {
+                "ratings": 3.9,
+                "rating_count": "1.7k",
+                "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1700946/2017/2/21/11487675507806-HRX-by-Hrithik-Roshan-Men-Off-white-Printed-Round-Neck-T-Shirt-211487675507525-1.jpg",
+                "brand": "HRX by Hrithik Roshan",
+                "title": "Printed T-shirt",
+                "size": "M",
+                "price": "Rs. 349",
+                "strike_price": "Rs. 699",
+                "discount": "(50% OFF)"
+                }
             ]
     }
+
+
